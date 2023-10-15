@@ -17,6 +17,7 @@
 Ensure you have Python and Pip installed, then install the project dependencies with:
 ```bash
 pip install -r requirements.txt
+...
 
 ##Detailed Guide
 **Page 1:** Sales Prediction & Feedback
