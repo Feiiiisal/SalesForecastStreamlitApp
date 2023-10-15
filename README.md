@@ -7,7 +7,9 @@
 ## Features
 
 - **Effortless Predictions:** Interactive UI components for easy input and instant sales predictions.
+
 - **Model Insights:** Dedicated page providing comprehensive details about the underlying machine-learning model.
+
 - **User Feedback:** Integrated feedback system to capture user responses and improve model effectiveness.
 
 ## Quick Start
@@ -21,29 +23,41 @@ pip install -r requirements.txt
 ...
 
 ##Detailed Guide
+
 **Page 1:** Sales Prediction & Feedback
 
 ## Input Parameters:
 
 **Promotional Items:** Number of items on promotion.
+
 **Date:** The specific date for which the prediction is needed.
+
 **City:** Choose from available cities.
+
 **State:** Choose from available states.
+
 **Family:** Choose from available product families.
 
 **Features:**
 
 **Predict Sales:** Instantly forecast sales based on user inputs.
+
 **User Feedback:** Enhance model evolution with your feedback on predictions.
+
 **Page 2:** Model Information
 
 Gain in-depth knowledge about the XGBoost regression model used for predictions, including architecture, accuracy, training data, and last update details.
 
 ## Technology Stack
+
 **Streamlit:** Web framework for turning data scripts into shareable web apps.**
-XGBoost:** Gradient boosting framework utilized for predictive modelling.
+
+**XGBoost:** Gradient boosting framework utilized for predictive modelling.
+
 **Pandas:** Data analysis and manipulation.
+
 **Scikit-Learn:** Tools for predictive data analysis.
+
 **Matplotlib:** Visualization of data and models.
 
 ## Feedback Mechanism
