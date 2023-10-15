@@ -22,7 +22,7 @@ Ensure you have Python and Pip installed, then install the project dependencies 
 pip install -r requirements.txt
 ...
 
-##Detailed Guide
+## Detailed Guide
 
 **Page 1:** Sales Prediction & Feedback
 
